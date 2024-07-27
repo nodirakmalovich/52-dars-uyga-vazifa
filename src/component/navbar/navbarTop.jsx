@@ -3,6 +3,9 @@ import SubscribeBtn from '../buttons/subsribeBtn';
 
 
 export default function NavbarTop() {
+
+    console.log("Navbar has been rendered !!!");
+
     return (
         <div className="Navbar">
             <div className="container">
